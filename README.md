@@ -18,7 +18,6 @@ A full-featured authentication system with clean UI and essential functionalitie
 - Django REST Framework
 - Simple JWT (Token Authentication)
 - Django CORS Headers
-- SMTP Email Setup for Password Reset
 
 ## 🔗 API Endpoints
 
